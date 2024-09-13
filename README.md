@@ -24,13 +24,13 @@ To run this application locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/savbell/value-card-sort.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd your-repo
+   cd value-card-sort
    ```
 
 3. **Install Dependencies**

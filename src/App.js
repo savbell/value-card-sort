@@ -339,7 +339,7 @@ function App() {
       </div>
       <footer>
         <a
-          href="https://github.com/savbell"
+          href="https://github.com/savbell/value-card-sort"
           target="_blank"
           rel="noopener noreferrer"
         >

@@ -1,11 +1,9 @@
-/* src/App.css */
-
 .App {
   font-family: Arial, sans-serif;
   text-align: center;
   padding: 20px;
-  background-color: #f0f4f8; /* Site background color */
-  min-height: 100vh; /* Ensure background covers entire viewport */
+  background-color: #f0f4f8;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
@@ -43,7 +41,7 @@ header p {
 }
 
 .content {
-  flex: 1; /* Allow content to grow and push footer down */
+  flex: 1;
   margin-top: 20px;
 }
 
@@ -52,7 +50,7 @@ header p {
   justify-content: space-between;
   flex-wrap: nowrap;
   overflow-x: auto;
-  margin-bottom: 30px; /* Added spacing below categories */
+  margin-bottom: 30px;
 }
 
 .category {
@@ -128,7 +126,7 @@ header p {
 footer {
   text-align: center;
   padding: 20px 0;
-  background-color: #f0f4f8; /* Match site's background color */
+  background-color: #f0f4f8;
 }
 
 footer p {
@@ -186,7 +184,7 @@ button {
 
 /* Generate URL Button */
 .generate-url {
-  background-color: #8ebdbb; /* Pastel teal */
+  background-color: #8ebdbb;
 }
 
 .generate-url:hover {
@@ -204,7 +202,7 @@ button {
 
 /* Reset Button */
 .reset-button {
-  background-color: #e0a6a6; /* Pastel red */
+  background-color: #e0a6a6;
 }
 
 .reset-button:hover {
@@ -225,7 +223,7 @@ button {
 
 .prev-button,
 .next-button {
-  background-color: #b2a1e6; /* Pastel purple */
+  background-color: #b2a1e6;
   color: white;
   border: none;
   border-radius: 4px;
